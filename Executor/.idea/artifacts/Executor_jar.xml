@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Executor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Executor_jar</output-path>
+    <root id="archive" name="Executor.jar">
+      <element id="module-output" name="Executor" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+readerName=IavorukReader
+writerName=Writer_
+readerCfg=configs\Workers_CFG\XXXReaderCfg.txt
+writerCfg=configs\Workers_CFG\WriterCfg.txt
+input=input.txt
+output=output.txt
+executor1=Executor_-configs\Workers_CFG\ExecutorCfg.txt
+executor2=Executor_-configs\Workers_CFG\ExecutorCfg_.txt

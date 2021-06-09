@@ -1,0 +1,3 @@
+minSizeToSeparation=1
+numOfSeparations=2
+mode=false
